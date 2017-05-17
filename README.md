@@ -37,6 +37,9 @@ a lightweight java/js client to get all connection to your website by the instan
 
 get all the connections to your site by the instance, you get ip log file,
 nice and clean with no duplicates.
+the java server runs on your local machine, so its not prone to any 
+outer connections (security wise), and its multiThreaded, so dont worry
+about any fallouts.
 
 # Installation
 after clone/download.
