@@ -52,13 +52,6 @@ and thats all.
 **Dependencies**
 a running up-to-date jre
 
-
-**Stable Release **
-
-    download the get.py file 
-    and run as root:
-    sudo python get.py
-
 For any probs:
 ============
 
