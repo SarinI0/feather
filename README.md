@@ -59,4 +59,4 @@ a running up-to-date jre
 For any probs:
 ============
 
-Please refer to the [official website](https://sarin.io/int).
+Please refer to the [official website](https://sarin.io).
