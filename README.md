@@ -41,7 +41,7 @@ the java server runs on your local machine, so its not prone to any
 outer connections (security wise), and its multiThreaded, so dont worry
 about any fallouts.
 
-# Installation
+# Installation & usage
 after clone/download.
 no installation needed, just copy paste the runner.js code to your <head>
 at your html page at your site, and open a terminal at the downloaded directory,
