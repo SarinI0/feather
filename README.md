@@ -49,6 +49,8 @@ and run:
     "java -jar analytics.jar </your/path/to/the/log/file> <port = 8082> <host = local machine: 127.0.0.1>"                                           
 and thats all.
 
+at the runner.js file change 127.0.0.1 to your domain.
+
 **Dependencies**
 a running up-to-date jre
 
