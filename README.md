@@ -46,7 +46,7 @@ after clone/download.
 no installation needed, just copy paste the runner.js code to your head
 at your html page at your site, and open a terminal at the downloaded directory,
 and run:                                                                                                                                                
-    "java -jar analytics.jar </your/path/to/the/log/file> <port = 8082> <host = local machine: 127.0.0.1>"                                           
+    "java -jar analytics.jar </your/path/to/the/log/file> <port = 8082> <host = your domain..>"                                           
 and thats all.
 
 at the runner.js file change 127.0.0.1 to your domain.
